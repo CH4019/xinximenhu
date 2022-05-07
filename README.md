@@ -22,4 +22,4 @@
 ## 内测
 ![加入内测](https://user-assets.sxlcdn.com/images/774616/FucRi22GC69AWNZN8nrELpZKZMJu.png?imageMogr2/strip/auto-orient/thumbnail/480x960%3E/format/png)[加入内测](https://jq.qq.com/?_wv=1027&k=GBgTcdAo)
 ## THANKS
-本软件使用Fusion制作，在此感谢公开代码提供者以及提供解决问题方案者。
+本软件使用Fusion APP制作，在此感谢公开代码提供者以及提供解决问题方案者。
